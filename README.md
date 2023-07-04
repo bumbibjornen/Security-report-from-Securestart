@@ -5,3 +5,14 @@ This report consists of an analysis of a fictional law firm called HRC where my 
 
 <h2>Tools Used </h2>
 - <b>Risk analysis </b>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<h2>Walkthrough</h2>
+<p align="center">
+HRC's current network architecture: </b>
+<img src="https://i.imgur.com/usMuCtl.png" height="80%" length="80%" alt="Map over system"/>
+</p>
