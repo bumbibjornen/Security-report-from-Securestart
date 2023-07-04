@@ -59,7 +59,7 @@ I will go through their previous architecture and our recommended one as well as
   <img src="https://i.imgur.com/JY1uplN.png" width="70%" alt="Map over system"/>
   <br />
   <br />
-  Azure architecture for when they start working from the Cloud: <br/>
+  Azure architecture for when HRC start working from the Cloud: <br/>
   <img src="https://i.imgur.com/vkww4bL.png" width="70%" alt="Map over system"/>
 </p>
 <br />
