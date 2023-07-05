@@ -66,7 +66,7 @@ I will go through their previous architecture and our recommended one as well as
 <br />
 <br />
   <p align="left">
-    In the attachments, we had also policies for IT Security for the employees to have clear guidelines at the workplace but also when working remotely and Patch Management describes the necessary requirements that exist in order to be able to maintain updated systems and software on the IT systems
+    In the attachments, we had also policies for IT Security for the employees to have clear guidelines at the workplace but also when working remotely and Patch Management describes the necessary requirements that exist in order to be able to maintain updated systems and software on the IT systems.
   </p>
  <p align="center">
   IT Security Policy: <br/>
